@@ -1,0 +1,12 @@
+{
+    "name": "Python CI Workflow",
+    "description": "CI workflow for Python projects",
+    "iconName": "octicon beaker",
+    "categories": [
+        "continuous-integration",
+        "Python"
+    ],
+    "filePatterns": [
+        "peotry.lock"
+    ]
+}
